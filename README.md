@@ -27,4 +27,4 @@ Sort student names
 Update grade
 View student record
 View list of failures
-Exit – to exit form application
+Exit – to exit form application.
