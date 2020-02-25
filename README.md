@@ -2,6 +2,7 @@
 This examination management system project is a proposal for a new system for taking and giving exams. 
 Since the examination tenure is short but complex, it aims at reducing the time for every step. 
 It will provide compactness, better data accessibility, and less effort.
+This Examination Management System can be used by anyone to keep the record of students.(E.g-School,College)
 
 The main aim of developing this Examination System C++
 Project is to provide efficient tool for school and
